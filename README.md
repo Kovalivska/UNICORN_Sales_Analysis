@@ -3,31 +3,8 @@
 ## Overview
 This project analyzes customer trends, profitability, and growth opportunities for a unicorn company using sales data, SQL, spreadsheets, and visualizations.
 
-## 📊 Dashboard
-
-[![Dashboard Preview](https://public.tableau.com/static/images/UN/UNICORNProjectDashboard/DashboardLastverson/1.png)](https://public.tableau.com/views/UNICORNProjectDashboard/DashboardLastverson)
-
+[![Dashboard Preview](https://public.tableau.com/thumb/views/UNICORNProjectDashboard/DashboardLastverson?:language=en-US&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/UNICORNProjectDashboard/DashboardLastverson)
 > Click the image above to explore the interactive Tableau Dashboard.
----
-
-## 📁 Folder Structure
-
-\`\`\`
-📁 Project_Unicorn_Sales_Analysis
-│
-├── 📁 📊 Reports
-│
-├── 📁 📽️ Media
-│  
-├── 📁 📈 Presentations
-│ 
-├── 📁 📑 Data
-│ 
-├── 📁 📚 Lessons_Learned
-│
-└── 📄 README.md
-\`\`\`
-
 ---
 ## Team Members
 - Sultan Mahmood Riaz
