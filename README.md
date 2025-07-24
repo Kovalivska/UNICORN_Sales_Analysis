@@ -6,6 +6,7 @@ This project analyzes customer trends, profitability, and growth opportunities f
 <img width="1002" height="748" alt="image" src="https://github.com/user-attachments/assets/33d0fded-057d-4994-8fb5-9fba6d8aa245" />
 https://public.tableau.com/views/UNICORNProjectDashboard/DashboardLastverson
 > Click the image above to explore the interactive Tableau Dashboard.
+
 ---
 ## Team Members
 - Sultan Mahmood Riaz
